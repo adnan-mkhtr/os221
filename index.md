@@ -7,6 +7,7 @@
 [GITHUB]({{ site.githublink }})
 <br>
 Welcome!
+<br>
 My name is {{ site.author }} and this is my GitHub Pages for {{ site.title }}
 <br><br>
 Qapla!
