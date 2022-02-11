@@ -6,8 +6,8 @@
 [LOG]({{ site.myloglink }}) ---
 [GITHUB]({{ site.githublink }})
 <br>
-<hr>
-This is {{ site.title }} and I am {{ site.author }}.
+Welcome!
+My name is {{ site.author }} and this is my GitHub Pages for {{ site.title }}
 <br><br>
 Qapla!
 <br>
