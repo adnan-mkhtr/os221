@@ -4,6 +4,7 @@
 <br><br>
 [HOME]({{ site.baseurl }}/) ---
 [LOG]({{ site.myloglink }}) ---
+[LINKS]({{ site.baseurl }}/LINKS/) ---
 [GITHUB]({{ site.githublink }})
 <br><br>
 <span style="font-size:large; font-weight:bold;">Welcome!</span>
