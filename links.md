@@ -25,6 +25,10 @@ Link ini memberikan banyak informasi tentang bahasa C dan berghuna untuk membant
 
 ## Week 05
 1. [Virtual Memory](https://youtu.be/M8M4M6NSmeA)<br>
-   Bagian pertama dari seri memori virtual ini menjelaskan cara kerja memori virtual di sistem operasi dan videonya dalam Bahasa Indonesia. Referensi ini akan membantu      Anda mempelajari lebih lanjut jika Anda tidak dapat menangani penjelasan bahasa Inggris.
+   Bagian pertama dari seri memori virtual ini menjelaskan cara kerja memori virtual di sistem operasi dan videonya dalam Bahasa Indonesia. Referensi ini akan membantu    Anda mempelajari lebih lanjut jika Anda tidak dapat menangani penjelasan bahasa Inggris.
 2. [Virtual Memory Algorithm](https://youtu.be/xpwRadrF0Ns)<br>
    Bagian kedua menjelaskan algoritma yang digunakan dalam memori virtual. Saya merekomendasikan untuk menonton serial ini jika Anda lebih suka penjelasan memori virtual    dalam Bahasa Indonesia.
+
+## Week 06
+1. [Concurrency and Threads](https://applied-programming.github.io/Operating-Systems-Notes/3-Threads-and-Concurrency/)<br>
+   Saya menemukan web yang berisi catatan Sistem Operasi dan ada penjelasan lengkap tentang Concurrency dan thread. Saya sarankan untuk mengunjungi website ini            jika Anda ingin belajar tentang concurrency dan thread.
