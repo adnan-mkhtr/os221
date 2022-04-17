@@ -33,4 +33,4 @@ Link ini memberikan banyak informasi tentang bahasa C dan berghuna untuk membant
 1. [Concurrency and Threads](https://applied-programming.github.io/Operating-Systems-Notes/3-Threads-and-Concurrency/)<br>
    Saya menemukan web yang berisi catatan Sistem Operasi dan ada penjelasan lengkap tentang Concurrency dan thread. Saya sarankan untuk mengunjungi website ini            jika Anda ingin belajar tentang concurrency dan thread.
 2. [Fork() function](https://www.thegeekstuff.com/2012/05/c-fork-function/)<br>
-   This article explains the function of fork() and give the example to help you understand better about fork(). 
+   Artikel ini menjelaskan fungsi fork() dan memberikan contoh untuk membantu saya dan Anda memahami lebih baik tentang fork().
