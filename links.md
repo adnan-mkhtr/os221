@@ -34,3 +34,7 @@ Link ini memberikan banyak informasi tentang bahasa C dan berghuna untuk membant
    Saya menemukan web yang berisi catatan Sistem Operasi dan ada penjelasan lengkap tentang Concurrency dan thread. Saya sarankan untuk mengunjungi website ini            jika Anda ingin belajar tentang concurrency dan thread.
 2. [Fork() function](https://www.thegeekstuff.com/2012/05/c-fork-function/)<br>
    Artikel ini menjelaskan fungsi fork() dan memberikan contoh untuk membantu saya dan Anda memahami lebih baik tentang fork().
+   
+## Week 07
+1. [Process Synchronization](https://www.studytonight.com/operating-system/process-synchronization)<br>
+   Link ini dapat membantu Anda mempelajari tentang sinkronisasi proses dalam sistem operasi. Link Ini juga memberi Anda sebuah masalah sinkronisasi klasik untuk          membantu Anda berlatih dan memahami dengan lebih baik.
