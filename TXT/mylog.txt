@@ -67,4 +67,9 @@ ZCZC W09 110 L02 ZOOM meetings related
 ZCZC W09 80 L02 ZOOM meetings related
 ZCZC W09 90 L11 Assignment #01
 ZCZC W09 30 L12 Assignment #02
-ZCZC W09 150 L12 Assignment #02
+ZCZC W09 150 L13 Assignment #03
+
+ZCZC W10 110 L02 ZOOM meetings related
+ZCZC W10 75 L02 ZOOM meetings related
+ZCZC W10 90 L11 Assignment #01
+ZCZC W10 30 L12 Assignment #02
